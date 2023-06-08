@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/conor-joyce-00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="conor-joyce-00" height="30" width="40" /></a>
-<a href="https://cawnj.dev" target="blank"><img align="center" src="https://cawnj.dev/favicon.png" alt="cawnj.dev" height="30" width="30" /></a>
+<a href="https://cawnj.dev" target="blank"><img align="center" src="https://cawnj.dev/icon.svg" alt="cawnj.dev" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
